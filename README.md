@@ -26,4 +26,4 @@ Engineering Director / AI Systems Builder — real-time decision systems, agenti
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/zahirudeen-premji-5a7a553b1
-- Email: headydiscy@gmail.com
+- Email: build.zmarter@gmail.com
