@@ -22,8 +22,8 @@ Engineering Director / AI Systems Builder — real-time decision systems, agenti
   Repo: https://github.com/nondescript74/KeepTrack
 
 ## Writing / case studies
-- Industrially Strong stories: https://industriallystrong.com/stories
+- Industrially Strong stories: https://industriallystrong.com
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/zahirudeen-premji-5a7a553b1
-- Email: build.zmarter@gmail.com
+- Email: headydiscy@gmail.com
