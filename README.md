@@ -34,11 +34,18 @@ Dual-chain mirrored ledger for verifiable storage and recovery
 ### Industrially Strong — Public Evidence Surface
 Labs, experiments, and system proofs across AI, storage, and physical computation  
 → https://industriallystrong.com
+
+### CLAW — Cross-LLM Arbitration Workflow
+A control plane for long-running work with LLMs, built on evidence-bound claims, layered authority and explicit conflict resolution  
+→ [claw-public](https://github.com/nondescript74/claw-public)
+
 ## Selected Builds
 
-- **Reczipes3** — OCR → structured extraction → LLM reasoning  
-- **KanjiKanaTrainer** — on-device handwriting recognition (PencilKit + CoreML)  
-- **KeepTrack** — iOS system for structured daily tracking
+- **[Reczipes2](https://github.com/nondescript74/reczipes)**: recipe photo → Vision OCR → LLM extraction → structured recipes, with allergen, FODMAP and GutSense analysis
+- **[qrl-architecture-comparison](https://github.com/nondescript74/qrl-architecture-comparison)**: side-by-side demo of an LLM-only pipeline against a decision architecture (MHT and FAISS regime retrieval)
+- **[KanjiKanaTrainer](https://github.com/nondescript74/KanjiKanaTrainer)**: handwriting practice for kana and Chinese characters, with PencilKit stroke capture and stroke-order scoring
+- **[KeepTrack](https://github.com/nondescript74/KeepTrack)**: an iOS daily intake tracker with goals and Siri capture
+- **[litho-shared-contracts](https://github.com/nondescript74/litho-shared-contracts)**: shared Swift, TypeScript and JSON Schema contracts for a computational lithography decision engine
 
 ## Writing
 
