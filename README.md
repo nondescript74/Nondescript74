@@ -1,59 +1,53 @@
 ## Zahirudeen Premji
 
-> Most AI systems fail at execution. I build the control planes that make them accountable.
+> Founder. Board president. Thirty years leading semiconductor R&D, now building AI that a volunteer board can actually rely on.
 
-Control-Plane Architect for AI Systems  
-Building real-time decision systems, agentic infrastructure, and correctness frameworks.
+**Founder, Trivera My Agent LLC** · **Board President, Hyland Village Association** · **Strategic advisor, Ozo Coffee Company**
+Engineering leader at StorageTek, Nikon, IBM, LSI and Microsoft · 7 U.S. patents, more pending · IEEE Life Member
 
-I work on systems where AI must **act, not just predict** — trading, data integrity, and on-device intelligence.
+## What I'm building now
 
-## What I build
+### Trivera — governance AI for volunteer boards
+A family of products for boards run by volunteers: HOAs first, other community groups next.
 
-- **AI Decision Infrastructure**  
-  Bounded-latency decision loops, evaluation pipelines, and observable execution systems
+- **OurFolly**: a board's memory for every director. It keeps track of the decisions, contracts, deadlines and open items that build up across a board's mail and documents, so a director can find out what happened, who owes what and what's due next, from the computer or the phone. Now in pilot with directors on a working HOA board.
+- **Jena**: the cockpit I run my own work from. It gives me one view of state across every project and lane, with each system's records kept separate.
 
-- **Agentic Control Planes**  
-  Systems that coordinate tools, workflows, and outcomes with measurable behavior
+I use these myself every day as board president. That's the test they have to pass.
 
-- **Correctness & Data Integrity (ASA/DCML)**  
-  Architectures for verifiable storage, arbitration, and recovery under failure
-
-- **On-device AI Systems**  
-  Swift/SwiftUI + CoreML pipelines for privacy-preserving, real-time inference
-  
-## Active Systems
-
-### Phoenix — AI Trading System
-Real-time decision system using multi-signal consensus and regime-aware execution  
-→ https://phoenix.industriallystrong.com
-
-### ASA / DCML — Correctness Architecture
-Dual-chain mirrored ledger for verifiable storage and recovery  
-→ https://industriallystrong.com/lab
-
-### Industrially Strong — Public Evidence Surface
-Labs, experiments, and system proofs across AI, storage, and physical computation  
+### Industrially Strong — public evidence surface
+Field notes, labs and writing on AI systems, correctness and lithography
 → https://industriallystrong.com
 
 ### CLAW — Cross-LLM Arbitration Workflow
-A control plane for long-running work with LLMs, built on evidence-bound claims, layered authority and explicit conflict resolution  
+A control plane for long-running work with LLMs, built on evidence-bound claims, layered authority and explicit conflict resolution
 → [claw-public](https://github.com/nondescript74/claw-public)
 
-## Selected Builds
+### Phoenix — AI trading system
+Real-time decision system using multi-signal consensus and regime-aware execution
+→ https://phoenix.industriallystrong.com
+
+## How I lead
+
+- **Hands-on founder work.** I take a product from first commit to directors installing it on their own Macs and PCs.
+- **Board leadership.** I'm the president of my HOA board, so I run its contracts, vendors, budget and directors myself.
+- **Founder-level advisory.** I work alongside founders on operating structure and execution. Ozo Coffee is the reference.
+
+## Selected builds (public)
 
 - **[Reczipes2](https://github.com/nondescript74/reczipes)**: recipe photo → Vision OCR → LLM extraction → structured recipes, with allergen, FODMAP and GutSense analysis
-- **[qrl-architecture-comparison](https://github.com/nondescript74/qrl-architecture-comparison)**: side-by-side demo of an LLM-only pipeline against a decision architecture (MHT and FAISS regime retrieval)
 - **[KanjiKanaTrainer](https://github.com/nondescript74/KanjiKanaTrainer)**: handwriting practice for kana and Chinese characters, with PencilKit stroke capture and stroke-order scoring
 - **[KeepTrack](https://github.com/nondescript74/KeepTrack)**: an iOS daily intake tracker with goals and Siri capture
+- **[qrl-architecture-comparison](https://github.com/nondescript74/qrl-architecture-comparison)**: an LLM-only pipeline side by side with a decision architecture
 - **[litho-shared-contracts](https://github.com/nondescript74/litho-shared-contracts)**: shared Swift, TypeScript and JSON Schema contracts for a computational lithography decision engine
 
 ## Writing
 
-- https://industriallystrong.com  
-(Control planes, AI systems, correctness, and physical computation)
+- LinkedIn articles, including the Trivera series and *Arriving Cold: Lessons From a Year of Directing AI to Build a Board's Memory*
+- Field notes at https://industriallystrong.com
 
 ## Contact
 
 - LinkedIn: https://linkedin.com/in/zahirudeen-premji
-- GitHub: https://github.com/nondescript74
+- https://industriallystrong.com (contact form)
 - https://z.industriallystrong.com
