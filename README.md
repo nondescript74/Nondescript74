@@ -2,7 +2,7 @@
 
 > Founder. Board president. Thirty years leading semiconductor R&D, now building AI that a volunteer board can actually rely on.
 
-**Founder, Trivera My Agent LLC** · **Board President, Hyland Village Association** · **Strategic advisor, Ozo Coffee Company**
+**Founder, Trivera My Agent LLC** · **Board President of my HOA** · **Strategic advisor, Ozo Coffee Company**
 Engineering leader at StorageTek, Nikon, IBM, LSI and Microsoft · 7 U.S. patents, more pending · IEEE Life Member
 
 ## What I'm building now
@@ -10,7 +10,7 @@ Engineering leader at StorageTek, Nikon, IBM, LSI and Microsoft · 7 U.S. patent
 ### Trivera — governance AI for volunteer boards
 A family of products for boards run by volunteers: HOAs first, other community groups next.
 
-- **OurFolly**: a board's memory for every director. It keeps track of the decisions, contracts, deadlines and open items that build up across a board's mail and documents, so a director can find out what happened, who owes what and what's due next, from the computer or the phone. Now in pilot with directors on a working HOA board.
+- **OurFolly**: a board's memory for every director. It keeps track of the decisions, contracts, deadlines and open items that build up across a board's mail and documents, so a director can find out what happened, who owes what and what's due next, from the computer or the phone.
 - **Jena**: the cockpit I run my own work from. It gives me one view of state across every project and lane, with each system's records kept separate.
 
 I use these myself every day as board president. That's the test they have to pass.
