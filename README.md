@@ -2,7 +2,7 @@
 
 > Founder. Board president. Thirty years leading semiconductor R&D, now building AI that a volunteer board can actually rely on.
 
-**Founder, Trivera My Agent LLC** · **Board President of my HOA** · **Strategic advisor, Ozo Coffee Company**
+**Founder, Trivera My Agent LLC** · **Board President of my HOA** · **Strategic advisor, OZO Coffee Company**
 Engineering leader at StorageTek, Nikon, IBM, LSI and Microsoft · 7 U.S. patents, more pending · IEEE Life Member
 
 ## What I'm building now
@@ -31,7 +31,7 @@ Real-time decision system using multi-signal consensus and regime-aware executio
 
 - **Hands-on founder work.** I take a product from first commit to directors installing it on their own Macs and PCs.
 - **Board leadership.** I'm the president of my HOA board, so I run its contracts, vendors, budget and directors myself.
-- **Founder-level advisory.** I work alongside founders on operating structure and execution. Ozo Coffee is the reference.
+- **Founder-level advisory.** I work alongside founders on operating structure and execution. OZO Coffee is the reference.
 
 ## Selected builds (public)
 
